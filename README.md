@@ -1,6 +1,5 @@
-Databricks Learning 
 
-## Overview
+## Databricks Learning 
 Rpositório dedicado ao aprendizado e aprimoramento das habilidades no uso das ferramentas oferecidas pela plataforma Databricks.
 
 ## Conteúdo
